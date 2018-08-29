@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="label_titulo">Calculator</string>
+    <string name="label_peso">"Your Weight: "</string>
+    <string name="hint_peso">E.g. 68 KG</string>
+    <string name="label_altura">Your Height:</string>
+    <string name="hint_altura">Eg. 1.5 m</string>
+    <string name="botao_calcular">Calculate</string>
+    <string name="botao_limpar">Clean</string>
+</resources>
